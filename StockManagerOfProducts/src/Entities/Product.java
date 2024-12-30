@@ -7,7 +7,6 @@ public class Product {
     private String name;
     private double price;
     private int quantity;
-    private Scanner read;
 
     public Product(String name, double price, int quantity) {
         this.name = name;
